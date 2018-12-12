@@ -1,2 +1,6 @@
 blabla
+<<<<<<< HEAD
 ouais c'est ca!!
+=======
+2 ligne blabla
+>>>>>>> 651bcbbfd8ab9dfc6b4ab04a17e8616a06ee425a
